@@ -8,6 +8,7 @@ public class aplicacion {
 		System.out.println("Comienzo de practica2");
 		
 		System.out.println("Commit & push despues del README");
+		System.out.println("Para ver la modificacion del commit");
 
 	}
 
